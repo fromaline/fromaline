@@ -21,5 +21,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fromaline&show_icons=true" alt="fromaline" /></p>
 
 <p align="center">
-<a href="https://stackoverflow.com/users/13162259/fromaline" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="flowy" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13162259/fromaline" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="flowy" height="30" width="30" /></a>
 </p>
