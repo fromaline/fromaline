@@ -3,7 +3,7 @@
 
 - 🕸 I’m currently working on **networking**
 - 💠 I'm currently learning **frontend technologies**
-- 🕐 I'm currently investing time in **open-source**
+- 🕐 I'm currently investing time in **open source**
 - 🧠 I'm currently intrested in <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="20" height="20" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/svelte-icon.svg" width="20" height="20" />
 
 <p align="center">
