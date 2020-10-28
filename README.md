@@ -4,6 +4,7 @@
 - 🕸 I’m currently working on **networking**
 - 💠 I'm currently learning **frontend technologies**
 - 🕐 I'm currently investing time in **open-source**
+- 🧠 I'm currently intrested in <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="20" height="20" />
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
