@@ -41,7 +41,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rishav-chanda-b89a791b3" height="30" />
   </a>
   &nbsp;
-  <a href="https://fromaline.hashnode.dev/" target="_blank" rel="noreferrer">
+  <a href="https://blog.fromaline.com/" target="_blank" rel="noreferrer">
     <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="30" />
   </a>
   &nbsp;
