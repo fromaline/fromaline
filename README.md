@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Nikita!</h1>
-<h3 align="center">A business oriented frontend developer</h3>
+<h3 align="center">A business oriented frontend developer.</h3>
 
-<h6>I do boxing, play badminton, blog, make acrylic paintings, invest on stock-market, create mosaic art works, read books and comics in my spare time.</h6>
+<h6>I do boxing, play badminton, blog about code-related stuff, make acrylic paintings, read books and comics.</h6>
 
 <br>
 
