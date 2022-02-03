@@ -50,11 +50,15 @@
 
 <p>Reach me via</p>
 <p align="left">
-  <a href="https://t.me/fromaline" target="blank" rel="noreferrer">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" alt="telegram logo" />
+  <a href="https://twitter.com/fromaline" target="blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" alt="twitter logo" />
   </a>
   &nbsp;
   <a href="mailto:grechino@protonmail.com" target="blank" rel="noreferrer">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/protonmail-2752093-2284910.png" height="30" alt="protonmail logo" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/fromaline" target="blank" rel="noreferrer">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" alt="telegram logo" />
   </a>
 </p>
