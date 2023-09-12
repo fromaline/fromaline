@@ -1,7 +1,5 @@
 <h1 align="center">Hi! I'm Nikita Grechino.</h1>
-<h3 align="center">A business oriented frontend developer.</h3>
-
-<h6>I do boxing, play badminton, blog about code-related stuff, make acrylic paintings, read books and comics.</h6>
+<h3>Creator of <a href="https://chainspect.app/" target="blank" rel="noreferrer">Chainspect</a> 🚀</h3>
 
 <hr>
 
