@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Nikita Grechino.</h1>
-<h3>Creator of <a href="https://chainspect.app/" target="blank" rel="noreferrer">Chainspect</a> 🚀</h3>
+<h1 align="center">Hi! I'm Nick Grechino.</h1>
+<h3>Co-Founder of <a href="https://chainspect.app/" target="blank" rel="noreferrer">Chainspect</a> 🚀</h3>
 
 <hr>
 
